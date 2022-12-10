@@ -1,0 +1,89 @@
+{
+  "name": "websitedatlich-fe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.12",
+    "@chakra-ui/react": "^2.0.0",
+    "@ckeditor/ckeditor5-build-classic": "^35.0.1",
+    "@ckeditor/ckeditor5-react": "^5.0.2",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@hapi/joi": "^17.1.1",
+    "@hookform/resolvers": "^2.9.7",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.0.1",
+    "@testing-library/user-event": "^14.1.0",
+    "@types/i18next": "13.0.0",
+    "@types/jest": "^25.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-datepicker": "^4.4.2",
+    "@types/react-i18next": "8.1.0",
+    "@types/react-lottie": "^1.2.6",
+    "@types/react-redux": "7.1.18",
+    "@types/react-router-dom": "5.3.3",
+    "add": "^2.0.6",
+    "ahooks": "^3.7.0",
+    "axios": "^0.27.2",
+    "chart.js": "^3.9.1",
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.1",
+    "framer-motion": "^7.6.12",
+    "fs": "^0.0.1-security",
+    "html-react-parser": "0.14.1",
+    "i18next": "20.4.0",
+    "jwt-decode": "^3.1.2",
+    "path": "^0.12.7",
+    "rc-pagination": "3.1.9",
+    "react": "^18.1.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-datepicker": "^4.8.0",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "^18.1.0",
+    "react-fast-compare": "^3.2.0",
+    "react-hook-form": "^7.34.2",
+    "react-i18next": "^12.0.0",
+    "react-icons": "^3.0.0",
+    "react-lottie": "^1.2.3",
+    "react-notifications-component": "^4.0.1",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.1",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.2.1",
+    "typescript": "4.2.4",
+    "web-vitals": "^0.2.2",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.0.6",
+    "@types/webpack-env": "^1.16.4"
+  },
+  "resolutions": {
+    "@types/react": "17.0.14",
+    "@types/react-dom": "17.0.14"
+  }
+}
